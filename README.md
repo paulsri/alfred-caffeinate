@@ -38,3 +38,12 @@ To resume normal sleep behavior:
 ## thanks
 
 Many thanks to the [stack overflow](http://stackoverflow.com) community for lots of shell scripting help!
+
+
+![alt text][caffeine8]
+![alt text][caffeineoff]
+![alt text][notcaffeinated]
+
+[caffeine8]: https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/caffeine8.png "caffeine 8"
+[caffeineoff]: https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/caffeineoff.png "caffeine off"
+[notcaffeinated]: https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/notcaffeinated.png "not caffeinated"
