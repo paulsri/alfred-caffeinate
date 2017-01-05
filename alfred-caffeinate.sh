@@ -1,6 +1,8 @@
 #!/bin/bash
 
 argument=$1
+
+# default caffeination time in seconds
 default_caffeination=3600
 
 function running() {
