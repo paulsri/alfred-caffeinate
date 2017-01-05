@@ -39,11 +39,10 @@ To resume normal sleep behavior:
 
 Many thanks to the [stack overflow](http://stackoverflow.com) community for lots of shell scripting help!
 
+## screenshots of alfred and notifications
 
-![alt text][caffeine8]
-![alt text][caffeineoff]
-![alt text][notcaffeinated]
-
-[caffeine8]: https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/caffeine8.png "caffeine 8"
-[caffeineoff]: https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/caffeineoff.png "caffeine off"
-[notcaffeinated]: https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/notcaffeinated.png "not caffeinated"
+<img src="https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/alfred-caffeine8.png" width=600>
+<img src="https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/alfred-caffeineoff.png" width=600>
+<img src="https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/notify-caffeine8.png" width=350>
+<img src="https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/notify-disablecaffeine.png" width=350>
+<img src="https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/notify-notcaffeinated.png" width=350>
