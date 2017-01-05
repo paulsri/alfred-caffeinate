@@ -46,3 +46,4 @@ Many thanks to the [stack overflow](http://stackoverflow.com) community for lots
 <img src="https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/notify-caffeine8.png" width=350>
 <img src="https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/notify-disablecaffeine.png" width=350>
 <img src="https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/notify-notcaffeinated.png" width=350>
+<img src="https://raw.githubusercontent.com/paulsri/alfred-caffeinate/master/images/notify-already.png" width=350>
